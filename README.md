@@ -47,7 +47,9 @@ stm32-3phase-pwm-generator/
 │   └── simulation.mp4          # Demo video
 ├── README.md
 └── LICENSE
+```
 
+---
 ## 🎬 Demo Video
 
 Watch the real-time PWM generation and LCD interface demonstration below:
